@@ -1,4 +1,6 @@
 source "https://rubygems.org"
-gem "jekyll", "~> 4.3"
-gem "just-the-docs"
+
+# This gem includes the exact versions GitHub Pages uses
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-remote-theme"
 gem "webrick"

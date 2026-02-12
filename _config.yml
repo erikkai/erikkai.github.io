@@ -1,0 +1,10 @@
+title: "Erikka Innes"
+theme: "just-the-docs"
+
+# UI Settings
+search_enabled: true
+color_scheme: "dark"
+
+# Optional: Add your GitHub link to the top right
+aux_links:
+  "GitHub": "https://github.com/erikkai"

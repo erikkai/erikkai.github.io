@@ -87,3 +87,28 @@ nav_order: 3
     </a>
   </div>
 </div>
+
+<hr class="case-divider">
+
+<div class="case-card">
+  <div class="case-tag">All-IP Event Management</div>
+  <h2>Case Study: Liven Built Their All-IP Event Management System Using api.video</h2>
+  
+  <div style="display: flex; gap: 40px; margin-top: 20px; flex-wrap: wrap;">
+    <div style="flex: 1; min-width: 300px;">
+      <h4 style="color: #eee; border-bottom: 1px solid #333; padding-bottom: 5px;">The Problem</h4>
+      <p>Liven wanted to eliminate the complexity of multi-platform event management by building an in-house system. They needed a cost-effective, high-quality way to broadcast multi-angle live streams—using hardware as simple as iPhones—without the technical overhead of building video infrastructure from scratch.</p>
+    </div>
+    <div style="flex: 1; min-width: 300px;">
+      <h4 style="color: #eee; border-bottom: 1px solid #333; padding-bottom: 5px;">The Solution</h4>
+      <p>By integrating api.video in just one week, Liven leveraged robust RTMP ingestion to handle multiple high-quality video feeds. This allowed them to offer interactive features where virtual attendees could toggle between camera angles or follow a director-led broadcast feed seamlessly.</p>
+    </div>
+  </div>
+  
+  <div class="case-result">
+    <strong>Impact:</strong> Successfully launched a seamless hybrid event platform used for weddings and pop-up shop promotions, enabling real-time audience engagement and simplified post-event highlight reel production.
+    <a href="https://api.video/blog/case-studies/case-study-liven-built-their-all-ip-event-management-system-using-api-video/" target="_blank" style="color: #00d2ff; text-decoration: none; margin-left: 10px; font-weight: bold;">
+      Read Full Technical Analysis →
+    </a>
+  </div>
+</div>

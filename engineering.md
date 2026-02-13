@@ -5,6 +5,14 @@ nav_order: 2
 ---
 
 <style>
+
+  .eng-divider {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 210, 255, 0), rgba(0, 210, 255, 0.4), rgba(0, 210, 255, 0));
+    margin: 50px 0;
+  }
+
   .project-entry {
     display: flex;
     flex-wrap: wrap;
@@ -56,6 +64,8 @@ nav_order: 2
   </div>
 </div>
 
+<hr class="eng-divider">
+
 <div class="project-entry">
   <div class="project-info">
     <h3>api.video Python Client</h3>
@@ -71,6 +81,8 @@ nav_order: 2
     <span class="tag">SDK Development</span>
   </div>
 </div>
+
+<hr class="eng-divider">
 
 <div class="project-entry">
   <div class="project-info">
@@ -88,8 +100,9 @@ nav_order: 2
   </div>
 </div>
 
+<hr class="eng-divider">
 
-<hr style="border: 0; border-top: 1px solid #333; margin: 60px 0;">
+
 <h2 style="margin-bottom: 30px;">Other Projects</h2>
 
 <div style="margin-bottom: 30px;">

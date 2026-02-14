@@ -107,7 +107,7 @@ nav_order: 3
   
   <div class="case-result">
     <strong>Impact:</strong> Successfully launched a seamless hybrid event platform used for weddings and pop-up shop promotions, enabling real-time audience engagement and simplified post-event highlight reel production.
-    <a href="https://api.video/blog/case-studies/case-study-liven-built-their-all-ip-event-management-system-using-api-video/" target="_blank" style="color: #00d2ff; text-decoration: none; margin-left: 10px; font-weight: bold;">
+    <a href="/case-studies/liven" target="_blank" style="color: #00d2ff; text-decoration: none; margin-left: 10px; font-weight: bold;">
       Read Full Technical Analysis →
     </a>
   </div>

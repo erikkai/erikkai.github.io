@@ -23,10 +23,10 @@ description: "Erikka Innes: Technical Storytelling and Engineering Portfolio"
   <a href="/case-studies" class="card-link">
     <img src="/assets/images/case-studies.webp" alt="Case Studies">
   </a>
-  <a href="#media" class="card-link">
+  <a href="/technical-media" class="card-link">
     <img src="/assets/images/technical-media.webp" alt="Technical Media">
   </a>
-  <a href="#strategy" class="card-link">
+  <a href="/strategic-positioning" class="card-link">
     <img src="/assets/images/strategy.webp" alt="Strategic Content and Product Positioning">
   </a>
   <a href="#creative" class="card-link">

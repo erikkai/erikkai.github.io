@@ -102,8 +102,49 @@ nav_order: 2
 
 <hr class="eng-divider">
 
+<h2 style="color: #00d2ff; border-bottom: 1px solid #333; padding-bottom: 10px; margin-top: 50px;">Technical Architecture & Systems</h2>
 
-<h2 style="margin-bottom: 30px;">Other Projects</h2>
+<div style="background-color: #1a1a1a; padding: 25px; border-radius: 8px; border: 1px solid #333; margin-bottom: 30px;">
+  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <div>
+      <h3 style="margin-top: 0; color: #fff;">Magic Leap: Simulator Architecture & Workflows</h3>
+      <p style="color: #ccc; line-height: 1.6; max-width: 800px;">
+        Partnered directly with the lead application simulator engineer to architect the developer documentation for Magic Leap's "Zero-Iteration" workflow. This involved mapping hardware-to-software data paths and translating complex AR sensor logic into actionable developer guides.
+      </p>
+    </div>
+    <span style="font-size: 0.75rem; background: #00d2ff; color: #000; padding: 4px 10px; border-radius: 4px; font-weight: bold; text-transform: uppercase;">Architecture</span>
+  </div>
+  
+  <div style="margin-top: 20px;">
+    <a href="/assets/docs/magic_leap_app_sim_developer.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #00d2ff; color: #000; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 0.9rem;">
+      View Developer Documentation (PDF)
+    </a>
+  </div>
+</div>
+
+<hr class="eng-divider">
+
+<div style="background-color: #1a1a1a; padding: 25px; border-radius: 8px; border: 1px solid #333; margin-bottom: 30px;">
+  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <div>
+      <h3 style="margin-top: 0; color: #fff;">NVIDIA Omniverse & Remote Rendering Architecture</h3>
+      <p style="color: #ccc; line-height: 1.6; max-width: 800px;">
+        Developed the technical framework for integrating Magic Leap 2 with NVIDIA Omniverse. This documentation bridges the gap between OpenUSD-based 3D worlds and spatial hardware, covering real-time remote rendering pipelines, AR Experience plugin configurations, and Unity/Unreal Engine synchronization.
+      </p>
+    </div>
+    <span style="font-size: 0.75rem; background: #00d2ff; color: #000; padding: 4px 10px; border-radius: 4px; font-weight: bold; text-transform: uppercase;">Architecture</span>
+  </div>
+  
+  <div style="margin-top: 20px;">
+    <a href="/assets/docs/omniverse_magic_leap_architecture.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #00d2ff; color: #000; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 0.9rem;">
+      View Omniverse Technical Documentation (PDF)
+    </a>
+  </div>
+</div>
+
+<hr class="eng-divider">
+
+<h2 style="color: #00d2ff; border-bottom: 1px solid #333; padding-bottom: 10px; margin-top: 50px;">Other Projects</h2>
 
 <div style="margin-bottom: 30px;">
   <h4 style="margin: 0;">Forge Doc Tester</h4>

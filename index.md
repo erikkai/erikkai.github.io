@@ -29,7 +29,7 @@ description: "Erikka Innes: Technical Storytelling and Engineering Portfolio"
   <a href="/strategic-positioning" class="card-link">
     <img src="/assets/images/strategy.webp" alt="Strategic Content and Product Positioning">
   </a>
-  <a href="#creative" class="card-link">
+  <a href="/creative" class="card-link">
     <img src="/assets/images/creative-lab.webp" alt="Creative Lab">
   </a>
 

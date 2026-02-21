@@ -135,5 +135,5 @@ nav_order: 3
 Read Full Technical Analysis →
 </a>
 </div>
-</div>
+
 

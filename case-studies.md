@@ -112,3 +112,28 @@ nav_order: 3
     </a>
   </div>
 </div>
+
+<hr class="case-divider">
+
+<div class="case-card">
+  <div class="case-tag">Smartphone Insurance</div>
+  <h2>Case Study: How video helped Coverd to improve their customer support</h2>
+<div style="display: flex; gap: 40px; margin-top: 20px; flex-wrap: wrap;">
+<div style="flex: 1; min-width: 300px;">
+<h4 style="color: #eee; border-bottom: 1px solid #333; padding-bottom: 5px;">The Problem</h4>
+<p>Coverd needed a reliable way to document smartphone damages for insurance claims. Their manual process of collecting videos via email and chat was disorganized, and file size limits often prevented customers from successfully submitting the high-resolution evidence required to prevent insurance fraud.</p>
+</div>
+<div style="flex: 1; min-width: 300px;">
+<h4 style="color: #eee; border-bottom: 1px solid #333; padding-bottom: 5px;">The Solution</h4>
+<p>By integrating api.video, Coverd implemented a centralized Video on Demand (VOD) solution with clear documentation and easy-to-use APIs. They leveraged fast transcoding and private video hosting to ensure claim videos were processed quickly and securely for exclusive use by their back-office team.</p>
+</div>
+</div>
+
+<div class="case-result">
+<strong>Impact:</strong> Revolutionized the insurance claim process by enabling seamless, high-quality video uploads from anywhere, significantly increasing the volume of claims processed while enhancing fraud detection and security.
+<a href="https://api.video/blog/case-studies/coverd/" target="_blank" style="color: #00d2ff; text-decoration: none; margin-left: 10px; font-weight: bold;">
+Read Full Technical Analysis →
+</a>
+</div>
+</div>
+</div>

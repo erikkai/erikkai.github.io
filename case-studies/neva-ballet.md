@@ -8,7 +8,7 @@ permalink: /case-studies/neva-ballet/
 
 <img src="/assets/images/neva-banner.webp" alt="Neva Case Study Banner" style="width: 100%; border-radius: 12px; margin-bottom: 2rem; border: 1px solid #333;">
 
-**[ 🌐 View the Article Live → ](https://api.video/blog/case-studies/case-study-how-api-video-helped-build-a-digital-dance-academy-without-coding/)** — *A couple uses api.video to create a successful online dance academy.*
+**[ 🌐 View the Article Live → ](https://api.video/blog/case-studies/case-study-how-api-video-helped-build-a-digital-dance-academy-without-coding/)** — *Liven uses api.video to power a seamless, all-IP event management system for hybrid and online gatherings.*
 # Case Study: How api.video Helped a Couple Build a Digital Dance Academy Without Coding
 Husband and wife team Didier Duffas and Valentina Zatevalneva dreamed of building their own digital dance academy - Neva Ballet. Their goal was to make it possible for people around the world to experience the magic of dance for fitness and health. Focused on classical dance techniques and the strength and beauty of Russian ballet, the classes would be open to anyone with the desire to learn.
 

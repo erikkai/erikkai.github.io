@@ -136,5 +136,4 @@ Read Full Technical Analysis →
 </a>
 </div>
 </div>
-</div>
 

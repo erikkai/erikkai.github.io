@@ -50,6 +50,22 @@ nav_order: 2
 
 <div class="project-entry">
   <div class="project-info">
+    <h3>Doc Doc Goose — Documentation Integrity Scanner</h3>
+    <p>Built a Python CLI tool that detects documentation rot in software repositories. The tool scans selected documentation files, analyzes Git commit history, and flags documents that may be stale based on configurable review intervals and priority levels. Outputs structured JSON logs describing documentation health, enabling teams to proactively identify outdated instructions, broken workflows, and drift between code and docs.</p>
+    <a href="https://github.com/erikkai/docdocgoose" target="_blank" style="color: #00d2ff;">View Repository →</a>
+  </div>
+  
+  <div class="project-meta">
+    <strong style="display:block; margin-bottom: 10px; font-size: 0.9rem;">TECH STACK</strong>
+    <span class="tag">Python</span>
+    <span class="tag">CLI Tooling</span>
+    <span class="tag">Git Analysis</span>
+    <span class="tag">JSON Logging</span>
+  </div>
+</div>
+
+<div class="project-entry">
+  <div class="project-info">
     <h3>TT-XLA & JAX: Hardware Onboarding & Tutorials</h3>
     <p>Developed comprehensive technical onboarding documentation for the Tenstorrent TT-XLA compiler frontend. This project bridges the gap from local environment configuration (Docker/Source) to executing optimized JAX models on physical silicon, using data and tensor parallelism for multi-chip execution.</p>
     <a href="https://github.com/erikkai/tt-xla-jax-onboarding" target="_blank" style="color: #00d2ff;">View Repository →</a>

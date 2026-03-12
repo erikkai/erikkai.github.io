@@ -1,6 +1,8 @@
 title: "Erikka Innes"
 remote_theme: just-the-docs/just-the-docs
 
+exclude:
+  - technical-media.md
 
 # Add this section to enable the remote theme plugin
 plugins:
